@@ -3,8 +3,8 @@ This is a project which uses spotify playlist and takes the genre and lyrics tot
 
 Models Used:
 
-1.Logistic
-2.KNN
+1.Logistic<br>
+2.KNN<br>
 3.NB
 4.BERT
 5.DistilBERT
